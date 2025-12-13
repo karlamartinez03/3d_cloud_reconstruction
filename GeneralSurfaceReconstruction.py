@@ -590,7 +590,7 @@ def main():
     print("\nChoose a test surface:")
     print("1. Ellipsoid (simple, uniform curvature)")
     print("2. Egg Shape (varying curvature, tapered)")
-    print("3. Rounded Box (flat faces + curved edges) ⭐ RECOMMENDED")
+    print("3. Rounded Box (flat faces + curved edges) RECOMMENDED")
     print("4. Capsule (cylinder with spherical caps)")
     print("5. Superellipsoid (sharp edges, very interesting)")
     print("6. Kidney Bean (complex curves)")
